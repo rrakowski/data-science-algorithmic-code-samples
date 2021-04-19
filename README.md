@@ -1,2 +1,5 @@
 # data-science-algorithmic-code-samples
-my original algorithmic solutions
+My original algorithmic solutions:
+
+1) moving median
+2) LCA without saving the binary tree structure in memory
